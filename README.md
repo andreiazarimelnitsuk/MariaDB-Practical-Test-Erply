@@ -18,4 +18,4 @@ This repository contains my solution for the MariaDB Practical Competence Test, 
 - MariaDB 11.6
 - Windows 11
 ## Author
-Andrei Azari Melnitsuk
+Andrei Azari Melnitsuk## Updated: Morning setup completed
