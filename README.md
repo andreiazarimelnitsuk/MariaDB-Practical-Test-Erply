@@ -19,3 +19,4 @@ This repository contains my solution for the MariaDB Practical Competence Test, 
 - Windows 11
 ## Author
 Andrei Azari Melnitsuk## Updated: Morning setup completed
+## Updated: Afternoon setup completed
