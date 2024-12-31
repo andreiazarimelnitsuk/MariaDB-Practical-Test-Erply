@@ -20,3 +20,4 @@ This repository contains my solution for the MariaDB Practical Competence Test, 
 ## Author
 Andrei Azari Melnitsuk## Updated: Morning setup completed
 ## Updated: Afternoon setup completed
+## Day 2: Table creation started
