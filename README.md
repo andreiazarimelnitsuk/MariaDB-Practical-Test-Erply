@@ -23,3 +23,4 @@ Andrei Azari Melnitsuk## Updated: Morning setup completed
 ## Day 2: Table creation started
 ## Day 2: Data import process
 ## Day 2: Data verification completed
+## Day 3: Query optimization started
